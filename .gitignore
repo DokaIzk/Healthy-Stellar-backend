@@ -104,3 +104,4 @@ backup_*.sql
 skills-lock.json
 
 issue.md
+contracts/target/
